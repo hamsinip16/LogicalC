@@ -1,2 +1,4 @@
 # LogicalC
-C logical coding
+#Each code is built on C language logics 
+#Learning purposes.
+
